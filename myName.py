@@ -1,3 +1,0 @@
-myName = input()
-
-print(myName)
